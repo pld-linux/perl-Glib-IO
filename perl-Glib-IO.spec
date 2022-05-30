@@ -6,12 +6,12 @@
 Summary:	Perl GIO (Glib IO) bindings
 Summary(pl.UTF-8):	Wiązania GIO (Glib IO) dla Perla
 Name:		perl-Glib-IO
-Version:	0.001
+Version:	0.002
 Release:	1
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
-Source0:	http://downloads.sourceforge.net/gtk2-perl/%{pnam}-%{version}.tar.gz
-# Source0-md5:	8628744ae27b20a2f45dbe2d620cb89c
+Source0:	https://downloads.sourceforge.net/gtk2-perl/%{pnam}-%{version}.tar.gz
+# Source0-md5:	6fc3325815d13f01545966313d8ae506
 URL:		http://gtk2-perl.sourceforge.net/
 BuildRequires:	glib2-devel >= 1:2.24.0
 BuildRequires:	perl-ExtUtils-MakeMaker
